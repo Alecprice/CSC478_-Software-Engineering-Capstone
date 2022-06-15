@@ -1,0 +1,6 @@
+List of Known Bugs
+
+- Audio doesn’t loop 
+(not a bug but a functionality we wanted to add but couldn’t figure out)
+- Visual bug with drag and drop, image offset if zoomed in or inspect element open.
+- At high wave numbers, performance may drop.
